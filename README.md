@@ -7,6 +7,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 ### School Project - INF5071 ###
 
 * This is a runner-like game for a school project
-* version 0.1
+* version 1.0
 
 ### This is a Unity Project ###
