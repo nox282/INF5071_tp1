@@ -1,0 +1,70 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.024 seconds
+Platform assembly: C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Skyllee\Desktop\inf5071_project\INF5071_Project\Builds\v2.0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.277898 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.503888 ms
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 1009.
+Total: 0.178178 ms (FindLiveObjects: 0.035154 ms CreateObjectMapping: 0.017126 ms MarkObjects: 0.109971 ms  DeleteObjects: 0.014723 ms)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 0)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.491869 ms
+
+Unloading 114 unused Assets to reduce memory usage. Loaded Objects now: 289.
+Total: 0.951287 ms (FindLiveObjects: 0.072413 ms CreateObjectMapping: 0.027042 ms MarkObjects: 0.124094 ms  DeleteObjects: 0.726836 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.173371 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 485.
+Total: 0.333221 ms (FindLiveObjects: 0.067906 ms CreateObjectMapping: 0.012319 ms MarkObjects: 0.203418 ms  DeleteObjects: 0.049577 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.352451 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 1014.
+Total: 0.180582 ms (FindLiveObjects: 0.039962 ms CreateObjectMapping: 0.018028 ms MarkObjects: 0.109070 ms  DeleteObjects: 0.013521 ms)
+
+Non-convex MeshCollider with non-kinematic Rigidbody is no longer supported in Unity 5.
+If you want to use a non-convex mesh either make the Rigidbody kinematic or remove the Rigidbody component. Scene hierarchy path "Plane", Mesh asset path "" Mesh name "Plane"
+ 
+(Filename:  Line: 0)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614761 ms
+
+Unloading 344 unused Assets to reduce memory usage. Loaded Objects now: 291.
+Total: 1.874631 ms (FindLiveObjects: 0.097051 ms CreateObjectMapping: 0.024037 ms MarkObjects: 0.108169 ms  DeleteObjects: 1.644471 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 34a4 -> priority: 1 
+  Thread -> id: 24cc -> priority: 1 
